@@ -1,0 +1,24 @@
+body {
+    display: flex;
+    flex-direction: center;
+    justify-content: center;
+    align-items: center;
+}
+
+#slider {
+    width: 500px;
+    height: 25vw;
+    max-width: 500px;
+    max-height: 150px;
+    
+    position: relative;
+}
+
+#slider img{
+    position: absolute;
+    
+    width: 100px;
+    height: 100px;
+    object-fit: cover;
+
+}

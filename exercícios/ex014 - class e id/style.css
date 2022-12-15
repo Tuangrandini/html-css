@@ -1,0 +1,26 @@
+body {background-color: rgb(149, 220, 248);
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+h1 {
+    color: rgb(34, 243, 52);
+}
+
+h1#principal.principal2 { 
+    text-align: center;
+    background-color: rgb(2, 168, 2);
+    color: white;
+    border-radius: 10px;
+}
+
+h2 {color: rgb(148, 255, 127);
+
+}
+
+.basico {
+    color: darkgreen;
+}
+
+.intermediario {
+    color: yellow;
+}
