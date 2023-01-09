@@ -18,8 +18,22 @@ header > h1 {
     background-color: rgba(211, 211, 211, 0.418);
 }
 
-menu {
+span.material-symbols-outlined{
+    background-color: rgb(48, 47, 47);
     display: block;
+    color: white;
+    text-align: center;
+    padding: 10px;
+    cursor: pointer;
+}
+
+.material-symbols-outlined:hover{
+    background-color: white;
+    color: black;
+}
+
+menu {
+    display: none;
 }
 
 menu > ul {
