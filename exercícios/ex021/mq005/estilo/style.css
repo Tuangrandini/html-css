@@ -38,6 +38,7 @@ menu {
 
 menu > ul {
     list-style-type: none;
+    padding: 10px;
 
 }
 
@@ -48,6 +49,7 @@ menu > ul > li > a {
     color: white;
     text-align: center;
     border-top: 2px solid grey;
+    background-color: rgb(68, 68, 68);
 }
 
 menu > ul > li > a:hover {
