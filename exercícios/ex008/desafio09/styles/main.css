@@ -18,8 +18,92 @@ button {
   display: block;
   margin: 0 auto;
 }
-button img {
-  height: 100px;
+button .material-icons {
+  font-size: 3rem;
+  color: black;
+  outline: none;
+  border-style: none;
+}
+
+.video {
+  display: flex;
+  justify-content: center;
+}
+.video iframe {
+  display: flex;
+  justify-content: center;
+}
+
+h2 {
+  color: white;
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+  text-align: center;
+  padding: 1rem;
+}
+
+button {
+  display: block;
+  margin: 0 auto;
+}
+button .material-icons {
+  font-size: 3rem;
+  color: black;
+  outline: none;
+  border-style: none;
+}
+
+.video {
+  display: flex;
+  justify-content: center;
+}
+.video iframe {
+  display: flex;
+  justify-content: center;
+}
+
+h2 {
+  color: white;
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+  text-align: center;
+  padding: 1rem;
+}
+
+button {
+  display: block;
+  margin: 0 auto;
+}
+button .material-icons {
+  font-size: 3rem;
+  color: black;
+  outline: none;
+  border-style: none;
+}
+
+.video {
+  display: flex;
+  justify-content: center;
+}
+.video iframe {
+  display: flex;
+  justify-content: center;
+}
+
+h2 {
+  color: white;
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+  text-align: center;
+  padding: 1rem;
+}
+
+button {
+  display: block;
+  margin: 0 auto;
+}
+button .material-icons {
+  font-size: 3rem;
+  color: black;
+  outline: none;
+  border-style: none;
 }
 
 * {
@@ -41,8 +125,8 @@ h1 {
 
 .wrapper {
   display: grid;
-  grid-template-columns: 200px 200px;
-  grid-auto-rows: 115px;
+  grid-template-columns: 250px 250px;
+  grid-auto-rows: 150px;
   justify-content: center;
   align-content: start;
   align-items: center;
